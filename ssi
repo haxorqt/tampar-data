@@ -1,6 +1,0 @@
-<b><font color=blue>GMT date</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DATE_GMT --></b><br>
-<b><font color=blue>Local date</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DATE_LOCAL --></b><br>
-<b><font color=blue>Document name</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DOCUMENT_NAME --></b><br>
-<b><font color=blue>Document URI</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DOCUMENT_URI --></b><br>
-<b><font color=blue>Last modified</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=LAST_MODIFIED --></b><br>
-<b><font color=blue>Owner</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=USER_NAME --></b><br>

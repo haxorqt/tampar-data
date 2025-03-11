@@ -14,3 +14,6 @@ Uploads Trick :
 - .PHp<1-8>
 - .PHt<reverse>
 - .SHtmL
+
+
+https://www.prplbx.com/resources/blog/exploiting-file-upload-vulnerabilities/

